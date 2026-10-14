@@ -58,14 +58,14 @@ Me interesa diseñar herramientas que procesen información de forma desatendida
   <tr>
     <td>
       <h3 align="center">📊 Kento.io | Motor de Análisis Estadístico y Predictivo</h3>
-      <p>Sistema desarrollado para la recolección de cuotas, normalización de métricas deportivas y cálculo de probabilidades basadas en valor esperado ($EV+$)[cite: 6].</p>
+      <p>Sistema desarrollado para la recolección de cuotas, normalización de métricas deportivas y cálculo de probabilidades basadas en valor esperado ($EV+$).</p>
       <ul>
-        <li><b>Pipeline de Datos:</b> Ingesta automatizada y persistencia estructurada en <b>PostgreSQL</b>[cite: 6].</li>
+        <li><b>Pipeline de Datos:</b> Ingesta automatizada y persistencia estructurada en <b>PostgreSQL</b></li>
         <li><b>Modelado:</b> Estimación de probabilidades usando algoritmos <b>XGBoost</b> y <b>distribución de Poisson</b>.</li>
-        <li><b>Auditoría:</b> Comparación algorítmica frente a cuotas de mercado para control de varianza[cite: 6].</li>
+        <li><b>Auditoría:</b> Comparación algorítmica frente a cuotas de mercado para control de varianza.</li>
       </ul>
       <p align="center">
-        <i>(El núcleo algorítmico y las estrategias se encuentran en un repositorio privado por propiedad intelectual; la documentación pública muestra la arquitectura y visualización de datos)[cite: 6].</i>
+        <i>(El núcleo algorítmico y las estrategias se encuentran en un repositorio privado por propiedad intelectual; la documentación pública muestra la arquitectura y visualización de datos).</i>
       </p>
     </td>
   </tr>
