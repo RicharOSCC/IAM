@@ -1,4 +1,4 @@
-# ⚙️ Richard Cueva | Full Stack Developer & Automation Architect
+# ⚙️ Richard | Full Stack Developer & Automation Architect
 
 > "Sistemas sobre Emociones."
 
