@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚙️ Richard Cueva (RicharOSCC)
+# ⚙️ Richard (RicharOSCC)
 ### Quantitative Developer | MLOps & Systems Automation
 
 <p align="center">
